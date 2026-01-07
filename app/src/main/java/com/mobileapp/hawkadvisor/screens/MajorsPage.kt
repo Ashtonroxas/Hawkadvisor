@@ -1,3 +1,4 @@
+// MajorsPage.kt
 package com.mobileapp.hawkadvisor.screens
 
 import android.annotation.SuppressLint

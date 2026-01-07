@@ -1,3 +1,4 @@
+// LandingPage.kt 
 package com.mobileapp.hawkadvisor.screens
 
 import android.content.res.Configuration

@@ -1,3 +1,4 @@
+<!-- Strings for the app -->
 <resources>
     <string name="app_name">Hawk Advisor</string>
     <string name="landing_page_title">Hawk Advisor</string>
