@@ -1,0 +1,42 @@
+[
+  {
+    "courseNumber": "MECH.1200",
+    "courseName": "Introduction to Engineering Design",
+    "difficulty": "Easy",
+    "credits": 3,
+    "prerequisites": ["MECH.1100"],
+    "tags": ["CAD Modeling", "Design Iteration"]
+  },
+  {
+    "courseNumber": "EECE.2010",
+    "courseName": "Circuit Theory I",
+    "difficulty": "Medium",
+    "credits": 3,
+    "prerequisites": ["EECE.2070"],
+    "tags": ["Circuit Analysis", "Nodal/Mesh Laws"]
+  },
+  {
+    "courseNumber": "MECH.3210",
+    "courseName": "Kinematics of Mechanisms",
+    "difficulty": "Hard",
+    "credits": 3,
+    "prerequisites": ["MECH.2010"],
+    "tags": ["Mechanism Synthesis", "Linkage Analysis"]
+  },
+  {
+    "courseNumber": "COMP.4500",
+    "courseName": "Mobile Robotics",
+    "difficulty": "Hard",
+    "credits": 3,
+    "prerequisites": ["COMP.1020", "EECE.3170"],
+    "tags": ["Path Planning", "Sensor Fusion"]
+  },
+  {
+    "courseNumber": "MECH.3230",
+    "courseName": "Control of Automated Systems",
+    "difficulty": "Hard",
+    "credits": 4,
+    "prerequisites": ["MECH.3210"],
+    "tags": ["PID Control", "System Stability"]
+  }
+]

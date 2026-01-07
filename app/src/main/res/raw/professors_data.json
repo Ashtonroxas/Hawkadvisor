@@ -1,0 +1,26 @@
+[
+  {
+    "professorName": "Dr. Sarah Johnson",
+    "courseNumber": "CS 340",
+    "rating": 4.8,
+    "difficulty": 3.5
+  },
+  {
+    "professorName": "Prof. Michael Chen",
+    "courseNumber": "CS 360",
+    "rating": 4.5,
+    "difficulty": 4.0
+  },
+  {
+    "professorName": "Dr. Emily Rodriguez",
+    "courseNumber": "CS 375",
+    "rating": 4.9,
+    "difficulty": 2.5
+  },
+  {
+    "professorName": "Prof. James Wilson",
+    "courseNumber": "CS 385",
+    "rating": 4.3,
+    "difficulty": 4.5
+  }
+]

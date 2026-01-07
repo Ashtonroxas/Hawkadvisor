@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Software Engineer",
+    "description": "Design, develop, and maintain software applications and systems. Work with code, databases, and APIs to create solutions for various platforms.",
+    "avgSalary": "$95K",
+    "growth": "+22%"
+  },
+  {
+    "name": "Data Analyst",
+    "description": "Collect, process, and analyze data to help organizations make informed decisions. Create visualizations and reports to communicate insights.",
+    "avgSalary": "$85K",
+    "growth": "+25%"
+  },
+  {
+    "name": "Robotics Engineer",
+    "description": "Robotics engineers design, build, test, and maintain robots and robotic systems. They integrate mechanical, electrical, and computer science principles to create automated solutions for various industries.",
+    "avgSalary": "$125K",
+    "growth": "+25%"
+  },
+  {
+    "name": "Cybersecurity Engineer",
+    "description": "Cybersecurity engineers design and implement secure network solutions, protect systems from cyber threats, and develop security protocols and procedures.",
+    "avgSalary": "$120K",
+    "growth": "+32%"
+  }
+]

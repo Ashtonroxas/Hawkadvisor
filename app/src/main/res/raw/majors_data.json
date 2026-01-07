@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Computer Science",
+    "careers": "Software Engineer, Data Analyst, Cybersecurity Specialist, Web Developer"
+  },
+  {
+    "name": "Mechanical Engineering",
+    "careers": "Robotics Engineer, HVAC Engineer, Automotive Engineer, Aerospace Engineer"
+  },
+  {
+    "name": "Art",
+    "careers": "Graphic Designer, Art Curator, Multimedia Artist, Art Therapist, Animator"
+  },
+  {
+    "name": "Economics",
+    "careers": "Economist (often with graduate degree), Financial Analyst, Data Scientist, Actuary, Market Research Analyst"
+  },
+  {
+    "name": "Mathematics",
+    "careers": "High School Teacher, Cryptographer, Quantitative Analyst (Quant), Data Scientist, Statistician"
+  },
+  {
+    "name": "Biology",
+    "careers": "Medical Scientist, Biotechnologist, Pharmaceutical Sales Rep, Environmental Consultant, Veterinarian"
+  },
+  {
+    "name": "History",
+    "careers": "Archivist, Museum Curator, Lawyer (requires JD), Policy Analyst, Secondary Education Teacher"
+  }
+]

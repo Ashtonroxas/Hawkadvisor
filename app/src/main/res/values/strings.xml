@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Hawk Advisor</string>
+    <string name="landing_page_title">Hawk Advisor</string>
+    <string name="landing_page_mascot_description">Hawk Advisor Mascot</string>
+    <string name="landing_page_description">Maximize your chance to get a job in the industry by learning what you need.</string>
+    <string name="landing_page_button_get_started">Get Started</string>
+    <string name="majors_page_title">Choose Your Major</string>
+    <string name="back_to_majors">Back to Majors</string>
+    <string name="major_placeholder">Major Placeholder</string>
+    <string name="major_compare_text">Compare career paths and their recommended electives</string>
+    <string name="see_more">... See More</string>
+    <string name="back_to_careers">Back to Careers</string>
+    <string name="recommended_electives_title">Recommended Electives</string>
+    <string name="professor_insights_title">Professor Insights</string>
+    <string name="other_careers_title">Other Careers You Might Like</string>
+    <string name="course_credits_label">credits</string>
+    <string name="course_prerequisites_label">Prerequisites: %1$s</string>
+    <string name="career_header_salary_label">Avg. Salary</string>
+    <string name="career_header_growth_label">Growth</string>
+    <string name="table_header_professor">Professor</string>
+    <string name="table_header_course">Course</string>
+    <string name="table_header_rating">Rating</string>
+    <string name="table_header_difficulty">Difficulty</string>
+    <string name="add_course_content_description">Add Course</string>
+    <string name="career_placeholder">Career Path Details</string>
+    <string name="career_data_missing_desc">Career data for %1$s is currently unavailable. Please check the majors list.</string>
+    <string name="career_data_missing_salary">N/A</string>
+    <string name="career_data_missing_growth">N/A</string>
+</resources>
